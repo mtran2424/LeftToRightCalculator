@@ -65,7 +65,7 @@ void ReverseString(char *);
 
 int main()
 {	//format output to screen and call functions of the program
-	printf("%%\tproject1\n");
+	printf("%%\n");
 	
 	//Task #1:
 	//call to Evaluate and result is returned to answer
